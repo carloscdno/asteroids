@@ -15,7 +15,7 @@ The project is a space shooter where the player controls a ship and must destroy
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/carloscdno/asteroids.git
     ```
 2. Install the Pygame library: 
     ```bash
